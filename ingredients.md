@@ -1,3 +1,4 @@
+Gluten-Free Snickerdoodle Ingredients
 Ingredients
 Cookie Dough
 1 cup unsalted butter, softened Use Smart Balance for dairy-free/vegan.
