@@ -1,3 +1,4 @@
+Let's begin!
 Gluten-Free Snickerdoodle Ingredients
 Ingredients
 Cookie Dough
@@ -12,3 +13,4 @@ Cookie Dough
 Cinnamon-Sugar Mixture
 ¼ cup granulated sugar
 2 teaspoons ground cinnamon
+Enjoy my recipe!
