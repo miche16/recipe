@@ -11,6 +11,9 @@ last line changed locally
 4. ordered
 5. list 
     1. with indent
+
 **This is a bold sentence**
-![Gluten Free!](Assignment 3/student_a3/student/recipe/gluten-free-snickerdoodle-cookies-rc-1-180x180.jpg "gluten free snickerdoodles")
+
+![Gluten Free!](gluten-free-snickerdoodle-cookies-rc-1-180x180.jpg)
+
 ### This is a REMOTE change :O
