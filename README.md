@@ -1,3 +1,5 @@
+# Heading level 1
+### Heading level 3
 ### This is a LOCAL change :)
 # recipe
 Recipe for Gluten-Free Snickerdoodles. line 2 changed remotely
