@@ -19,4 +19,6 @@ last line changed locally
 
 **This is a bold sentence**
 
+![Gluten Free!](gluten-free-snickerdoodle-cookies-rc-1-180x180.jpg)
+
 ### This is a REMOTE change :O
