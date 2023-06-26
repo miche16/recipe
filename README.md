@@ -17,4 +17,6 @@ last line changed locally
 5. list 
     1. with an indent
 
+**This is a bold sentence**
+
 ### This is a REMOTE change :O
